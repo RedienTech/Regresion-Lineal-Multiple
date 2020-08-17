@@ -12,4 +12,4 @@ con el fin de explicar de forma concisa y practica el funcionamiento de estos mo
 
 El metodo de optimizacion mediante la funcion normal proviene de una optimizacion a partir de la derivacion de la funcion de costo. Que en este caso sera el error medio cuadratico, una funcion de costo que se destaca por castigar los grandes errores.
   
-                         <img src="https://latex.codecogs.com/svg.latex?J(\theta&space;)&space;=&space;\sum_{i=1}^{m}&space;(h(x_{i})&space;-&space;y_{i})^2" title="J(\theta ) = \sum_{i=1}^{m} (h(x_{i}) - y_{i})^2" />
+![error](<img src="http://www.sciweavers.org/tex2img.php?eq=J%28%5Ctheta%20%29%3D%5Csum_%7Bi%3D1%7D%5E%7Bm%7D%28h%28x_%7Bi%7D%29-y_%7Bi%7D%29%5E2&bc=White&fc=Black&im=png&fs=18&ff=arev&edit=0" align="center" border="0" alt="J(\theta )=\sum_{i=1}^{m}(h(x_{i})-y_{i})^2" width="265" height="75" />)

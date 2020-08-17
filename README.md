@@ -11,5 +11,5 @@ con el fin de explicar de forma concisa y practica el funcionamiento de estos mo
 ### Funcion normal
 
 El metodo de optimizacion mediante la funcion normal proviene de una optimizacion a partir de la derivacion de la funcion de costo. Que en este caso sera el error medio cuadratico, una funcion de costo que se destaca por castigar los grandes errores.
- 
-                             $$f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k}$$ 
+  
+                         <img src="https://latex.codecogs.com/svg.latex?J(\theta&space;)&space;=&space;\sum_{i=1}^{m}&space;(h(x_{i})&space;-&space;y_{i})^2" title="J(\theta ) = \sum_{i=1}^{m} (h(x_{i}) - y_{i})^2" />
